@@ -484,6 +484,7 @@ img{
 .buy-now-btn{
     background-color: #000;
     border: 2px solid #000;
+    text-decoration:none;
 }
 .buy-now-btn:hover{
     background-color: #fff;
