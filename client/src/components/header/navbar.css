@@ -472,6 +472,7 @@ img{
     background-color: #FF9F00;
     border: 2px solid #FF9F00;
     margin-right: 8px;
+     text-decoration: none;
 }
 .add-cart-btn:hover{
     background-color: #fff;
