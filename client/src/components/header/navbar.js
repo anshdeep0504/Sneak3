@@ -94,7 +94,8 @@ function Navbar() {
                     </div>
                     <div class = "btn-groups">
                         <button type = "button" class = "add-cart-btn"><i class = "fas fa-shopping-cart"></i>add to cart</button>
-                        <button type = "button" class = "buy-now-btn"><i class = "fas fa-wallet"></i>buy now</button>
+                        <a href="https://sneak2.vercel.app/" class="buy-now-btn"><i class="fas fa-wallet"></i>buy now</a>
+
                     </div>
                     <p class = "product-description">You bring the speed. We'll bring the stability. The Luka 2 is built to support your skills, with an emphasis on step-backs, side-steps and quick-stop action. A stacked midsole features firm, flexible cushioning for added responsiveness as you shift back and forth on the court. Up top, the full-foot wrapped cage design helps you stay contained whether you're faking out a defender or driving down the lane. With all that tech in a lightweight package, we've got efficiency covered. The rest is up to you.</p>
                     <ul className='des2'>
