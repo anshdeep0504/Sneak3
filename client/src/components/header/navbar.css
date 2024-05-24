@@ -1,0 +1,622 @@
+body {
+    /* Add any body styles here */
+  }
+  
+  .taskbar {
+    display: flex;
+    background-color:rgb(255, 255, 255);
+    height: 85px;
+  }
+  .heart{
+    margin-left: 50px;
+    margin-top: 55px;
+    
+  }
+  .logo img {
+    height: 22px; /* Adjust this value as needed */
+    width: 20px;
+    position: absolute;
+    margin-left: 55px;
+    
+    border-radius: 4px;
+    margin-top: 03px;
+  }
+  
+  .container-fluid {
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 29px;
+    
+  }
+  
+  .form-control {
+    height: 40px; /* Adjust the height as needed */
+    width: 260px; /* Adjust the width as needed */
+    
+    margin-left: 40px;
+
+  }
+  .form-inline{
+    width: 160px;
+    border-radius: 30px;
+  }
+ 
+  .nav2{
+    display:inline-flex;
+    gap: 40px;
+    position: absolute;
+    margin-top: 60px;
+    
+    background-color:rgb(255, 255, 255);
+    margin-left: 280px;
+    padding-right: 30px;
+    font-weight: bold; 
+  }
+  .vio{
+    width: 548px;
+    margin-top: 150px;
+    position: absolute;
+    
+  }
+
+  
+
+  .name img {
+    
+    margin-top: -17px;
+    margin-left: -1012px;
+    width: 66px;
+  
+  }
+
+  .btn-outline-success{
+    
+    margin-left: 200px;
+
+  }
+  .navbar{
+    margin-left: 1060px;
+    margin-top: 40px;
+  }
+  .cart{
+    margin-right: -10px;
+    margin-top: 55px;
+    padding-left: 14px;
+    
+  }
+
+  .flexbox{
+    display: flex;
+    position: absolute;
+    gap: 30px;
+    margin-left: 1110px;
+    font-size:11px;
+    font-weight: 700;
+    margin-top: 5px;
+  }
+  .help{
+    margin-left: -9px;
+  }
+  .joinus{
+    margin-left: -9px;
+  }
+  .signin{
+    margin-left: -9px;
+  }
+  .sign1{
+    margin-left: -181px;
+  }
+  .sign2{
+    margin-left: 11px;
+  }
+  .sign3{
+    margin-left: 25px;
+  }
+  .text-container {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+}
+
+.text1 {
+    font-weight: 400;
+    font-size: 19px;
+    margin-left: -708px;
+    text-align: center;
+    
+}
+.text4{
+  font-weight: 500;
+    font-size: 14px;
+    margin-left: -670px;
+}
+
+.text2 {
+    font-weight: 900;
+    font-size: 65px;
+    margin-left: -556px;
+    margin-top: -25px;
+}
+.text3 {
+  font-weight: 900;
+  font-size: 65px;
+  margin-left: -570px;
+  margin-top:-42px ;
+}
+
+
+.myButton{
+  margin-top: 950px;
+  margin-left: -373px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+.text5{
+  margin-top: 1000px;
+  margin-left: -50px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.vio2{
+  margin-top: 1100px;
+  margin-left: -732px;
+  width: 808px;
+  
+}
+.textc{
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 760px;
+  margin-left: -268px;
+
+}
+
+.text6{
+  position: relative;
+  font-weight: 1000;
+  font-size: 55px;
+  margin-top: 1650px;
+  margin-left: -384px;
+}
+.text7{
+  position: relative;
+  font-weight: 1000;
+  font-size: 55px;
+  margin-top: 1705px;
+  margin-left: -430px;
+}
+.text8{
+  position: relative;
+  font-weight: 500;
+  font-size: 15px;
+  margin-top: 1806px;
+  margin-left: -527px;
+}
+.myButton2{
+  margin-top: 1860px;
+  margin-left: -420px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.custom-footer {
+  background-color: black;
+  color: white;
+  padding: 50px 0;
+  margin-top: 1420px;
+  height: 300px;
+  width: 104%;
+  margin-left: -1425px;
+}
+
+.custom-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.custom-column {
+  flex-basis: 20%;
+  padding: 0 20px;
+  margin-bottom: 20px;
+}
+
+.custom-column h3 {
+  font-size: 16px;
+  color: white;
+}
+
+.custom-column p {
+  font-size: 14px;
+  margin: 5px 0;
+  color: rgb(209, 210, 212);
+  
+}
+
+.custom-column p:last-child {
+  margin-bottom: 0;
+}
+
+.custom-horizontal-line {
+  border-top: 1px dashed rgb(246, 237, 237);
+  margin: 20px 0;
+}
+
+.custom-footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+ 
+}
+
+.custom-footer-bottom p {
+  font-size: 12px;
+  color: rgb(209, 210, 212);
+  margin-right: -1260px;
+  
+}
+.do{
+  padding-left: 66px;
+  font-size: 0.3px;
+  font-weight: 100;
+  font-style:oblique;
+  
+}
+
+.tempelate{
+  color: black;
+  margin-top: -485px;
+  
+  
+}
+.image-container {
+  display: flex;
+  gap: -40px;
+  margin-left: 40px;
+}
+
+.image-with-text {
+  position: relative;
+  flex: 1;
+  
+  
+  margin-top: -250px;
+  margin-right: 50px;
+  
+  margin-left: 30px;
+  
+}
+
+.image-with-text img {
+  width: 100%;
+  height: 390px;
+  display: block;
+  
+}
+
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+  font-weight: 700;
+  margin-top: 130px;
+  
+}
+.text13{
+  margin-top: -438px;
+  color:black;
+  margin-left: 73px;
+  font-weight: 400;
+  font-size:23px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+.main-wrapper{
+    min-height: 230vh;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: -1310px;
+    width:101% ;
+}
+.container{
+    max-width: 1200px;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+.product-div{
+    margin: 1rem 0;
+    padding: 7rem 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #fff;
+    border-radius: 3px;
+    column-gap: 10px;
+    margin-top: -650px;
+}
+.product-div-left{
+    padding: 20px;
+    margin-left: 60px;
+    padding-right: 50px;
+}
+.product-div-right{
+    padding: 20px;
+    margin-right: -50px;
+}
+.img-container img{
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+}
+.hover-container{
+  
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: -600px;
+    width: 30px;
+    
+    margin-left: -60px;
+}
+.hover-container div{
+
+    padding: 0.08rem;
+    border-radius: 10px;
+    margin: 0 4px 8px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.active{
+    border-color: rgb(255, 145, 163)!important;
+}
+.hover-container div:hover{
+    border-color: rgb(255, 145, 163);
+    
+}
+
+.hover-container div img{
+    width: 50px;
+    cursor: pointer;
+}
+.product-div-right span{
+    display: block;
+}
+.product-name{
+    font-size: 26px;
+    margin-bottom: 22px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    opacity: 0.9;
+}
+.product-price{
+    font-weight: 700;
+    font-size: 18px;
+    opacity: 0.9;
+    font-weight: 500;
+}
+.product-rating{
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+.product-rating span{
+    margin-right: 6px;
+}
+.product-description{
+    font-weight: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+    opacity: 0.9;
+    margin-top: 22px;
+}
+.btn-groups{
+    margin-top: 22px;
+}
+.btn-groups button{
+    display: inline-block;
+    font-size: 16px;
+    font-family: inherit;
+    text-transform: uppercase;
+    padding: 15px 16px;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-groups button .fas{
+    margin-right: 8px;
+}
+.add-cart-btn{
+    background-color: #FF9F00;
+    border: 2px solid #FF9F00;
+    margin-right: 8px;
+}
+.add-cart-btn:hover{
+    background-color: #fff;
+    color: #FF9F00;
+}
+.buy-now-btn{
+    background-color: #000;
+    border: 2px solid #000;
+}
+.buy-now-btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+@media screen and (max-width: 992px){
+    .product-div{
+        grid-template-columns: 100%;
+    }
+    .product-div-right{
+        text-align: center;
+    }
+    .product-rating{
+        justify-content: center;
+    }
+    .product-description{
+        max-width: 400px;
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+}
+.shoe-type{
+  font-size: 16px;
+  margin-bottom: 12px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: -23px;
+}
+.duties{
+  font-size: 13px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: -16px;
+color: rgb(160, 160, 160);
+}
+.MRP{
+  font-size: 15px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: -25px;
+margin-right: -100px;
+margin-left: 110px;
+color: rgb(160, 160, 160);
+padding: 2px;
+}
+.taxes{
+  font-size: 13px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: -18px;
+margin-right: -140px;
+
+margin-left: 0px;
+color: rgb(160, 160, 160);
+}
+.select{
+  font-size: 15px;
+  margin-bottom: 12px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: 5px;
+margin-right: -140px;
+
+margin-left: 0px;
+color: rgb(0, 0, 0);
+}
+.sizeguide{
+  font-size: 15px;
+  margin-bottom: 2px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 0.9;
+margin-top: -33px;
+margin-left: -6px;
+
+margin-left: 280px;
+color: rgb(160, 160, 160);
+}
+@media screen and (max-width: 400px){
+    .btn-groups button{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+  gap: 5px; /* Adjust the gap between buttons */
+  padding-right: 150px;
+  width: 510px;
+}
+.add-cart-btn{
+  width: 178px;
+}
+.buy-now-btn{
+  width: 178px;
+}
+.product-description{
+  padding-right: 147px;
+  color: #000;
+  font-weight: 400;
+}
+.des2{
+  padding-right: 147px;
+  color: #000;
+  font-weight: 350;
+  margin-left: -13px;
+  margin-top: 30px;
+  gap: 20px;
+}
+.signin{
+  color: #000;
+  text-decoration: none;
+}
+
+.nav2{
+  display: inline-flex;
+    gap: 40px;
+    position: absolute;
+    margin-top: 60px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 410px;
+    padding-right: 10px;
+    font-weight: 600;
+    color: black;
+}
+
+.custom-container :hover{
+  color: rgb(187, 189, 189);
+}
