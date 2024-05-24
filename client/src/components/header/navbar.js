@@ -41,7 +41,7 @@ function Navbar() {
             <div className='findastore'>Find a Store </div>
             <div className='help'>Help </div>
             <div className='joinus'>Join Us </div>
-            <a href="http://localhost:3001/" class="signin">Sign In</a>
+            <a href="https://sneak3-4xp4wvq8e-anshs-projects-d237de0d.vercel.app/" class="signin">Sign In</a>
             <div className='sign1'>|</div>
             <div className='sign2'>|</div>
             <div className='sign3'>|</div>
